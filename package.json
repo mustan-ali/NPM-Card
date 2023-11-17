@@ -1,0 +1,33 @@
+{
+  "name": "mustan",
+  "version": "1.0.0",
+  "description": "My personal NPM card",
+  "main": "index.js",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0"
+  },
+  "bin": {
+    "mustan": "index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustan-ali/NPM-Card.git"
+  },
+  "keywords": [
+    "NPM",
+    "Card",
+    "Node"
+  ],
+  "author": "Mustan Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mustan-ali/NPM-Card/issues"
+  },
+  "homepage": "https://github.com/mustan-ali/NPM-Card#readme"
+}
